@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @V1tazy
-- 🌱 I’m currently learning С#, Python, Java, JS
+- 🌱 I’m currently learning С#, Python, Java, JS, C++
 
 <!---
 V1tazy/V1tazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
